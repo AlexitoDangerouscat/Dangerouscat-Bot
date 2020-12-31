@@ -1,0 +1,2 @@
+# Dangerouscat-Bot
+Bot multiusos
